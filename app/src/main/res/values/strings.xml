@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShelbyGT</string>
+
+    <string name="tipoAuto">Auto Deportivo Performance</string>
+    <string name="nombreAuto">Shelby GT500</string>
+    <string name="descripcionAuto">Descubre Ford Shelby GT500 2020, el auto deportivo street-legal más poderoso de la historia de los Mustangs, diseñado para la pista y construido para las calles.</string>
+    <string name="potencia">POTENCIA</string>
+    <string name="cero_cien">0-100 KM/H</string>
+    <string name="cuartoMilla">1/4 DE MILLA</string>
+    <string name="button">Personalizar</string>
+
+    <string name="hp">700 HP</string>
+    <string name="seg">3.5 seg</string>
+    <string name="millas">11 seg</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="color">Color</string>
+    <string name="color_franjas">Color Franjas</string>
+    <string name="tipo_de_rines">Tipo de rines</string>
+    <string name="precio">$2,300,000</string>
+    <string name="comprar">Comprar</string>
+
+
+</resources>
